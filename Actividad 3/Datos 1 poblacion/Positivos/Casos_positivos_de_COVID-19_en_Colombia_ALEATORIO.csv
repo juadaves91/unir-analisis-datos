@@ -1,0 +1,36 @@
+"","fecha_reporte_web","ID_de_caso","Fecha_de_notificacion","cod_departamento","departamento","cod_municipio","municipio","Edad","Unidad_medida_edad","Sexo","Tipo_de_contagio","Ubicacion_del_caso","Estado","cod_pais","pais","Recuperado","Fecha_inicio_sintomas","Fecha_muerte","Fecha_diagnostico","Fecha_recuperacion","Tipo_recuperacion","Pertenencia_etnica","Nombre_grupo_etnico"
+"1","7/08/20 0:00",359794,"14/07/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",27,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","14/07/20 0:00",NA,"24/07/20 0:00","13/08/20 0:00","Tiempo",6,NA
+"2","21/03/21 0:00",2334571,"19/03/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",58,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","12/03/21 0:00",NA,"18/03/21 0:00","26/03/21 0:00","Tiempo",6,NA
+"3","22/08/21 0:00",4888693,"18/08/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",31,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","14/08/21 0:00",NA,"18/08/21 0:00","28/08/21 0:00","Tiempo",6,NA
+"4","20/06/21 0:00",3931537,"17/06/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",39,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","10/06/21 0:00",NA,"18/06/21 0:00","24/06/21 0:00","Tiempo",6,NA
+"5","13/01/22 0:00",5419132,"12/01/22 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",28,1,"F","En estudio","Casa","Leve",NA,NA,"Recuperado","8/01/22 0:00",NA,"12/01/22 0:00","22/01/22 0:00","Tiempo",6,NA
+"6","3/06/21 0:00",3475729,"31/05/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",30,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","26/05/21 0:00",NA,"1/06/21 0:00","9/06/21 0:00","Tiempo",6,NA
+"7","29/12/20 0:00",1612824,"24/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",29,1,"F","Relacionado","Casa","Leve",NA,NA,"Recuperado","20/12/20 0:00",NA,"27/12/20 0:00","3/01/21 0:00","Tiempo",6,NA
+"8","15/12/20 0:00",1437872,"11/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",40,1,"F","Relacionado","Casa","Leve",NA,NA,"Recuperado","7/12/20 0:00",NA,"11/12/20 0:00","22/12/20 0:00","Tiempo",6,NA
+"9","2/01/22 0:00",5176247,"30/12/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",25,1,"F","En estudio","Casa","Leve",NA,NA,"Recuperado","27/12/21 0:00",NA,"31/12/21 0:00","10/01/22 0:00","Tiempo",6,NA
+"10","8/02/21 0:00",2158493,"5/02/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",7,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","5/02/21 0:00",NA,"6/02/21 0:00","19/02/21 0:00","Tiempo",6,NA
+"11","13/01/22 0:00",5427959,"10/01/22 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",40,1,"F","En estudio","Casa","Leve",NA,NA,"Recuperado","7/01/22 0:00",NA,"11/01/22 0:00","21/01/22 0:00","Tiempo",6,NA
+"12","5/12/20 0:00",1357186,"2/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",37,1,"F","Relacionado","Casa","Leve",NA,NA,"Recuperado","26/11/20 0:00",NA,"2/12/20 0:00","29/04/21 0:00","PCR",6,NA
+"13","13/01/21 0:00",1822181,"9/01/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",26,1,"F","Comunitaria","Casa","Leve",NA,NA,"Recuperado","6/01/21 0:00",NA,"10/01/21 0:00","20/01/21 0:00","Tiempo",6,NA
+"14","18/09/21 0:00",4938586,"14/09/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",86,1,"F","En estudio","Casa","Leve",NA,NA,"Recuperado","11/09/21 0:00",NA,"15/09/21 0:00","4/12/21 0:00","Tiempo",6,NA
+"15","12/12/20 0:00",1413212,"9/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",61,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","5/12/20 0:00",NA,"10/12/20 0:00","20/12/20 0:00","Tiempo",6,NA
+"16","17/05/21 0:00",3122996,"10/05/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",1,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","8/05/21 0:00",NA,"14/05/21 0:00","22/05/21 0:00","Tiempo",6,NA
+"17","12/10/20 0:00",915265,"24/09/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",24,1,"F","Comunitaria","Casa","Leve",NA,NA,"Recuperado","20/09/20 0:00",NA,"5/10/20 0:00","13/10/20 0:00","Tiempo",6,NA
+"18","22/04/21 0:00",2707431,"14/04/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",69,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","13/04/21 0:00",NA,"20/04/21 0:00","27/04/21 0:00","Tiempo",6,NA
+"19","8/07/21 0:00",4439139,"3/07/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",34,1,"F","Relacionado","Casa","Leve",NA,NA,"Recuperado","30/06/21 0:00",NA,"4/07/21 0:00","14/07/21 0:00","Tiempo",6,NA
+"20","5/11/20 0:00",1109756,"3/11/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",80,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","27/10/20 0:00",NA,"3/11/20 0:00","12/11/20 0:00","Tiempo",6,NA
+"21","16/01/21 0:00",1877989,"12/01/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",46,1,"F","Relacionado","Casa","Leve",NA,NA,"Recuperado","11/01/21 0:00",NA,"14/01/21 0:00","28/01/21 0:00","PCR",6,NA
+"22","1/01/21 0:00",1653614,"28/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",33,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","24/12/20 0:00",NA,"28/12/20 0:00","7/01/21 0:00","Tiempo",6,NA
+"23","29/07/21 0:00",4763337,"25/07/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",44,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","22/07/21 0:00",NA,"27/07/21 0:00","5/08/21 0:00","Tiempo",6,NA
+"24","21/01/22 0:00",5662752,"19/01/22 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",2,1,"F","En estudio","Casa","Leve",NA,NA,"Recuperado","16/01/22 0:00",NA,"20/01/22 0:00","27/01/22 0:00","Tiempo",6,NA
+"25","18/05/21 0:00",3136438,"14/05/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",37,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","12/05/21 0:00",NA,"14/05/21 0:00","26/05/21 0:00","Tiempo",6,NA
+"26","12/12/20 0:00",1413060,"9/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",21,1,"F","Relacionado","Casa","Leve",NA,NA,"Recuperado","6/12/20 0:00",NA,"9/12/20 0:00","20/12/20 0:00","Tiempo",6,NA
+"27","1/11/20 0:00",1074439,"28/10/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",28,1,"F","Relacionado","Casa","Leve",NA,NA,"Recuperado","27/10/20 0:00",NA,"29/10/20 0:00","12/11/20 0:00","Tiempo",6,NA
+"28","7/01/22 0:00",5263639,"5/01/22 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",29,1,"M","En estudio","Casa","Leve",NA,NA,"Recuperado","1/01/22 0:00",NA,"5/01/22 0:00","15/01/22 0:00","Tiempo",6,NA
+"29","21/01/21 0:00",1963048,"18/01/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",83,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","14/01/21 0:00",NA,"18/01/21 0:00","31/01/21 0:00","Tiempo",6,NA
+"30","7/12/20 0:00",1374025,"4/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",53,1,"M","Relacionado","Casa","Leve",NA,NA,"Recuperado","2/12/20 0:00",NA,"4/12/20 0:00","16/12/20 0:00","Tiempo",6,NA
+"31","15/06/21 0:00",3784052,"11/06/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",38,1,"F","Comunitaria","Casa","Leve",NA,NA,"Recuperado","8/06/21 0:00",NA,"12/06/21 0:00","22/06/21 0:00","Tiempo",6,NA
+"32","21/01/22 0:00",5673594,"20/01/22 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",62,1,"F","En estudio","Casa","Leve",NA,NA,"Recuperado","16/01/22 0:00",NA,"20/01/22 0:00","27/01/22 0:00","Tiempo",6,NA
+"33","2/02/22 0:00",5907335,"27/01/22 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",47,1,"M","En estudio","Casa","Leve",NA,NA,"Recuperado","23/01/22 0:00",NA,"27/01/22 0:00","3/02/22 0:00","PCR",6,NA
+"34","4/07/21 0:00",4340828,"19/06/21 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",29,1,"M","Comunitaria","Casa","Leve",NA,NA,"Recuperado","18/06/21 0:00",NA,"2/07/21 0:00","5/07/21 0:00","Tiempo",6,NA
+"35","24/12/20 0:00",1551280,"21/12/20 0:00",5,"ANTIOQUIA",5001,"MEDELLIN",32,1,"F","Comunitaria","Casa","Leve",NA,NA,"Recuperado","16/12/20 0:00",NA,"21/12/20 0:00","30/12/20 0:00","Tiempo",6,NA
